@@ -11,3 +11,5 @@ numpy(numpy-1.16.6+mkl-cp35-cp35m-win32.whl)
 os
 random
 tflearn
+
+to test 4 colour models use ASL_CNN.ipynd
