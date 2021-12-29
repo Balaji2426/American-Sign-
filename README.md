@@ -13,3 +13,9 @@ random
 tflearn
 
 to test 4 colour models use ASL_CNN.ipynb
+
+matlab consist of matlab files with ycbcr skin model
+
+video link
+
+https://drive.google.com/drive/folders/1vNWSt6DbC5xheMkOHqO_MHDTcA0M0c8R?usp=sharing
