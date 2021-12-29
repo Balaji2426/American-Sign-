@@ -12,4 +12,4 @@ os
 random
 tflearn
 
-to test 4 colour models use ASL_CNN.ipynd
+to test 4 colour models use ASL_CNN.ipynb
